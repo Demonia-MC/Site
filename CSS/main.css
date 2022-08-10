@@ -20,6 +20,6 @@ body{
             hsla(250, 3%, 39%, 0.192),
             hsla(240, 2%, 30%, 0.178)
         ),
-        url(/ASSETS/montagnes.png);
+        url(ASSETS/montagnes.png);
     background-size: cover;
 }
