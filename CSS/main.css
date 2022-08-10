@@ -14,10 +14,12 @@ padding: 0;
 -webkit-user-drag: none;
 user-select: none;
 }
-background: 
+body{
+    background: 
         linear-gradient(
             hsla(250, 3%, 39%, 0.329),
             hsla(240, 2%, 30%, 0.329)
         ),
-        url(/back.jpg) no-repeat center fixed;
+        url(ASSETS/lapis.png) no-repeat center fixed;
     background-size: cover;
+}
