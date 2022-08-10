@@ -17,9 +17,9 @@ user-select: none;
 body{
     background: 
         linear-gradient(
-            hsla(250, 3%, 39%, 0.329),
-            hsla(240, 2%, 30%, 0.329)
+            hsla(250, 3%, 39%, 0.192),
+            hsla(240, 2%, 30%, 0.178)
         ),
-        url(ASSETS/lapis.png) no-repeat center fixed;
+        url(/ASSETS/montagnes.png);
     background-size: cover;
 }
