@@ -1,0 +1,16 @@
+:root{
+    --colo1: #9e0c0ce8;
+    --colo2: #fcfc50ef;
+    --colo3: #ffb120e5;
+    --colo4: #fc2222ea;
+    --colo5: #fcf6a5;
+        --embed: solid #000 10px;
+        --embed-radius: 30px 0px 0px 30px;
+        --radius-cool: 30px 12px 30px 12px;
+}
+*{
+margin: 0;
+padding: 0;
+-webkit-user-drag: none;
+user-select: none;
+}
